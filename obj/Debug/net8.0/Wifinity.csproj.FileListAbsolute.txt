@@ -1,0 +1,14 @@
+C:\Users\guim9\Desktop\-\Work\Wifinity\bin\Debug\net8.0\Wifinity.exe
+C:\Users\guim9\Desktop\-\Work\Wifinity\bin\Debug\net8.0\Wifinity.deps.json
+C:\Users\guim9\Desktop\-\Work\Wifinity\bin\Debug\net8.0\Wifinity.runtimeconfig.json
+C:\Users\guim9\Desktop\-\Work\Wifinity\bin\Debug\net8.0\Wifinity.dll
+C:\Users\guim9\Desktop\-\Work\Wifinity\bin\Debug\net8.0\Wifinity.pdb
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.AssemblyInfoInputs.cache
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.AssemblyInfo.cs
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.csproj.CoreCompileInputs.cache
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.dll
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\refint\Wifinity.dll
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.pdb
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\Wifinity.genruntimeconfig.cache
+C:\Users\guim9\Desktop\-\Work\Wifinity\obj\Debug\net8.0\ref\Wifinity.dll
